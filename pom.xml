@@ -4,12 +4,12 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.zuiuu</groupId>
-	<artifactId>zuiuu-springcloud</artifactId>
+	<artifactId>zuiuu-springcloud-base</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 
-	<name>zuiuu-springcloud</name>
-	<description>Demo project for Spring Boot</description>
+	<name>zuiuu-springcloud-base</name>
+	<description>Zuiuu SpringCould Project</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
